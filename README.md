@@ -1,6 +1,6 @@
 # FastMRI
 
-Reduced acquisition time for MRI imaging using undersampled k-space and a GAN (U-Net generator architecture). Won 3rd Place Award in the Robotics and Intelligent Machines Category at Intel ISEF and was an Oral Presenter at the National JSHS Symposium. 
+Reduced acquisition time for MRI imaging using undersampled k-space and a GAN (U-Net generator architecture). Won 3rd Place Award in the Robotics and Intelligent Machines Category at Intel ISEF and was an Oral Presenter at the National JSHS Symposium. https://abstracts.societyforscience.org/Home/PrintPdf/17117
 
 ## Sample of Training Process
 ![](isef-demo.gif)
